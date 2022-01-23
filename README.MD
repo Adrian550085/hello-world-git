@@ -39,3 +39,6 @@ Underline 2
 - <a href="http://google.com">Esto es un link HTML</a>
 - [Esto es un link en markdown](http://google.com)
 - [Esto es un link al index](index.html)
+
+# Imagenes
+![Logo Nike](https://tentulogo.com/wp-content/uploads/2017/07/nIke-logo.jpg)
