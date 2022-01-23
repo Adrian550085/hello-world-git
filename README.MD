@@ -89,3 +89,11 @@ export  $initHighlight;
 |------ | -------- | --------- |
 | Adrian | Sansores | Torres |
 |Jorge | Torres | Sansores |
+
+# Citas
+Esto es un texto referente a una cita que estará abajo:
+> Esto es una cita.
+
+Esto es otro texto que no se relaciona con la cita anterior
+
+> Esto es otra cita
